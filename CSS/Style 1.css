@@ -1,0 +1,36 @@
+body
+{
+	background-color: gray;
+}
+h1
+{
+	text-align: center;
+}
+h3
+{
+	color: sandybrown;
+	background-color: beige;
+	font-family: Papyrus;
+	border: 2px solid gold;
+}
+px
+{
+	font-size: 20px;
+	color: blueviolet;
+
+}
+
+th, td
+{
+	border: 1px solid black;
+	border-collapse: collapse;
+	background-color: none;
+}
+td
+{
+	text-align: center;
+}
+tr:hover
+{
+	background-color: darkred;
+}

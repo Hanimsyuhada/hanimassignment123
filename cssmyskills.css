@@ -1,0 +1,42 @@
+ {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #ffebd9, #d9f3ff); 
+            background-size: cover;
+            background-position: center;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .skills-section {
+            max-width: 600px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.8); /* Add slight transparency */
+            border-radius: 10px;
+            padding: 15px;
+        }
+
+        .skills-section h2 {
+            font-size: 1.8rem;
+            margin-bottom: 15px;
+        }
+
+        .skill-card {
+            background: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin: 10px 0;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .skill-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+        }
+
+        .skill-description {
+            font-size: 0.9rem;
+            color: #555;
+            text-align: center;
+        }

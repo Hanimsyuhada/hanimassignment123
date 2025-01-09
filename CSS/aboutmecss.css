@@ -1,0 +1,32 @@
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff04d; /* Salmon background */
+        }
+
+        .container {
+            padding: 20px;
+            text-align: left;
+        }
+
+        .title {
+        	font-family: Lucida Handwriting, cursive;
+            font-size: 72px;
+            font-weight: bold;
+            color: #000;
+            text-stroke: 2px #00f; 
+            -webkit-text-stroke: 2px #00f;
+            margin-bottom: 20px;
+        }
+
+        .content {
+            font-size: 18px;
+            color: #000;
+            line-height: 1.6;
+        }
+
+        .signature {
+            font-weight: bold;
+            margin-top: 20px;
+        }
